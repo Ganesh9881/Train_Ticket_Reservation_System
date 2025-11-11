@@ -1,2 +1,46 @@
-/build/
-/target/
+###############################
+# Eclipse Project Files
+###############################
+.settings/
+.project
+.classpath
+
+###############################
+# Maven Build Folders
+###############################
+target/
+build/
+
+###############################
+# OS-specific Files
+###############################
+.DS_Store
+Thumbs.db
+
+###############################
+# Logs and Temporary Files
+###############################
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+###############################
+# Local Folders (Not Needed)
+###############################
+Screenshots/
+Users/
+
+###############################
+# Other Common Ignore Patterns
+###############################
+# Backup files
+*.orig
+*.rej
+
+# Package archives
+*.zip
+*.tar
+*.gz
+*.rar
